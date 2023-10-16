@@ -1,2 +1,2 @@
 # Markus
-Frontpage
+![Metrics](/github-metrics.svg)
