@@ -2678,7 +2678,7 @@ import com.google.gson.JsonObject;
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 8.21m out of 124m users</span>
+                                    <span class="gh">ranked 8.21m out of 123m users</span>
                                 </div>
                                 <div class="text">Published 7 public repositories</div>
                             </div>
@@ -2922,7 +2922,7 @@ import com.google.gson.JsonObject;
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2023, 10:15:31 (timezone Europe/Oslo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2023, 11:12:10 (timezone Europe/Oslo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
