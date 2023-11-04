@@ -2840,7 +2840,7 @@ import com.google.gson.JsonObject;
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3.46m out of 125m users</span>
+                                    <span class="gh">ranked 3.47m out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 3 users</div>
                             </div>
@@ -2929,7 +2929,7 @@ import com.google.gson.JsonObject;
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Nov 2023, 11:11:55 (timezone Europe/Oslo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Nov 2023, 12:10:12 (timezone Europe/Oslo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
