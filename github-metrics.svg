@@ -2832,7 +2832,7 @@ I have tried to use ArrayList and HashMap insted of JSONArray and JSONObject
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3.26m out of 125m users</span>
+                                    <span class="gh">ranked 3.48m out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 3 users</div>
                             </div>
@@ -2921,7 +2921,7 @@ I have tried to use ArrayList and HashMap insted of JSONArray and JSONObject
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Nov 2023, 21:11:58 (timezone Europe/Oslo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Nov 2023, 22:10:05 (timezone Europe/Oslo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
