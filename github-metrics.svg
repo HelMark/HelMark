@@ -2668,7 +2668,7 @@ Thanks in advance! :)
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3139</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3140</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -2686,7 +2686,7 @@ Thanks in advance! :)
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1649</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1650</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -3060,7 +3060,7 @@ Thanks in advance! :)
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 May 2024, 18:15:12 (timezone Europe/Oslo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 May 2024, 19:10:37 (timezone Europe/Oslo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
