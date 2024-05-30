@@ -2785,7 +2785,7 @@ I don't understand, does the assembler automatically handle this? If so how? I h
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 7.24m out of 137m users</span>
+                                    <span class="gh">ranked 7.25m out of 137m users</span>
                                 </div>
                                 <div class="text">Published 9 public repositories</div>
                             </div>
@@ -3030,7 +3030,7 @@ I don't understand, does the assembler automatically handle this? If so how? I h
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 May 2024, 10:17:39 (timezone Europe/Oslo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 May 2024, 11:14:52 (timezone Europe/Oslo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
