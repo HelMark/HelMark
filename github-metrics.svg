@@ -2628,7 +2628,7 @@ Thanks for the answer in advance.
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3293</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3294</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -2646,7 +2646,7 @@ Thanks for the answer in advance.
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1722</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1723</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -3020,7 +3020,7 @@ Thanks for the answer in advance.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Sept 2024, 20:19:48 (timezone Europe/Oslo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Sept 2024, 21:13:46 (timezone Europe/Oslo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
